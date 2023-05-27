@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\layout_activity_enter_names.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_enter_names.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\layout_activity_play_game.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_play_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\layout_activity_show_standings.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_show_standings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\layout-land_activity_play_game.xml.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout-land\\activity_play_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.mimiko.tictactoegame.app-merged_res-30:/layout_activity_play_game.xml.flat",
+        "source": "com.mimiko.tictactoegame.app-main-32:/layout/activity_play_game.xml"
+    }
+]

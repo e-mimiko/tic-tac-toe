@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.mimiko.tictactoegame.app-mergeDebugResources-29:/layout-land/activity_play_game.xml",
+        "source": "com.mimiko.tictactoegame.app-main-32:/layout-land/activity_play_game.xml"
+    },
+    {
+        "merged": "com.mimiko.tictactoegame.app-mergeDebugResources-29:/layout-land/activity_main.xml",
+        "source": "com.mimiko.tictactoegame.app-main-32:/layout-land/activity_main.xml"
+    }
+]

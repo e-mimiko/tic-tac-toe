@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="app_displayName">Tic Tac Toe Game</string>
+    <string name="welcomeMsg">Welcome to Tic Tac Toe Game</string>
+    <string name="btn_endgame">End Game</string>
+    <string name="btn_resetgame">Reset</string>
+    <string name="tv_enterName">Enter your name:</string>
+    <string name="btn_save">Save</string>
+</resources>

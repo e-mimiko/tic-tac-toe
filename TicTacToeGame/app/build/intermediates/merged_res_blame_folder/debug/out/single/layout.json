@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-mergeDebugResources-29:\\layout\\activity_enter_names.xml",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_enter_names.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-mergeDebugResources-29:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-mergeDebugResources-29:\\layout\\activity_play_game.xml",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_play_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-mergeDebugResources-29:\\layout\\activity_show_standings.xml",
+        "source": "C:\\Users\\Ems\\.gradle\\daemon\\7.5\\com.mimiko.tictactoegame.app-main-32:\\layout\\activity_show_standings.xml"
+    },
+    {
+        "merged": "com.mimiko.tictactoegame.app-mergeDebugResources-29:/layout/activity_play_game.xml",
+        "source": "com.mimiko.tictactoegame.app-main-32:/layout/activity_play_game.xml"
+    }
+]

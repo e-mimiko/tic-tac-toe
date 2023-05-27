@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="50dp"
+    android:layout_marginTop="80dp"
+    android:layout_marginEnd="50dp"
+    android:orientation="vertical"
+    tools:context=".PlayGameActivity">
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="@string/welcomeMsg" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_Slot1"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp" />
+
+        <TextView
+            android:id="@+id/tv_Slot2"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp"
+            app:layout_constraintBottom_toTopOf="@+id/tv_Slot7"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <TextView
+            android:id="@+id/tv_Slot3"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp"
+            app:layout_constraintBottom_toTopOf="@+id/tv_Slot8"
+            app:layout_constraintEnd_toStartOf="@+id/textView7"
+            app:layout_constraintStart_toEndOf="@+id/tv_Slot2"
+            app:layout_constraintTop_toBottomOf="@+id/textView8"
+            app:layout_constraintVertical_bias="0.50" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_Slot4"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp" />
+
+        <TextView
+            android:id="@+id/tv_Slot5"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp" />
+
+        <TextView
+            android:id="@+id/tv_Slot6"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_Slot7"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_Slot8"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/tv_Slot9"
+            app:layout_constraintStart_toEndOf="@+id/tv_Slot7" />
+
+        <TextView
+            android:id="@+id/tv_Slot9"
+            android:layout_width="50dp"
+            android:layout_height="150dp"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="#E7E7F4"
+            android:gravity="center"
+            android:textSize="96sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_endGameId"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:text="@string/btn_endgame" />
+
+        <Button
+            android:id="@+id/btn_resetGameId"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_weight="1"
+            android:text="@string/btn_resetgame" />
+    </LinearLayout>
+
+</LinearLayout>
